@@ -4,9 +4,9 @@ Computer Graphics Phongs illumination model written in c++
 Sirusbeck Algorithm
 
 Calculates 
-1. ambIllum
-2. diffIllum
-3. phongIllum
+1. amb_Illum
+2. diff_Illum
+3. phong_Illum
 
 Give input via ill.in file
 
